@@ -1,4 +1,4 @@
-## classificador-sexo-ml
+# CLASSIFICADOR SEXO ML
 API utilizando algoritmo naive bayes para classificar sexo através de altura, tamanho do pé e peso de alguma pessoa baseado na monografia da professora Priscilla Labanca (Computação Forense à Luz da Inteligência Artificial). 
 Os resultados não são precisos por causa da pequena base de treinamento, mas serve de estudo do algoritmo de naive bayes
 
